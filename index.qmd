@@ -1,9 +1,10 @@
 ---
 title: Anand Hegde
-image: images/anand.png
+logo: images/logo.png
+image: images/anand.jpeg
 about:
   template: trestles
-  image-width: 10em
+  image-width: 15em
   image-shape: rounded
   links:
     - icon: github
@@ -22,6 +23,6 @@ about:
 
 Hi!
 
-I am Fourth Year Undergraduate at IIT Dharwad studying computer Science and Engineering. I am interested in Software development. I like building things. I enjoy DSA, Graph Theory, Machine learning. Pretty much anything related to CSE!
+I am Fourth Year Undergraduate at IIT Dharwad studying Computer Science and Engineering. I am interested in Software development. I like building things. I enjoy DSA, Graph Theory, Machine learning. Pretty much anything related to CSE!
 
 I am currently working on Erdos-Gyarfas conjecture for P-10 free graphs as my B-Tech Project!

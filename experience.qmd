@@ -12,7 +12,19 @@
   .details {
     padding: 10px; /* Add padding to create a gap between the image and details */
   }
+
+  @media (max-width: 768px) {
+    .image-and-details {
+      flex-direction: column; /* Change to a column layout on small screens */
+    }
+
+    .image-and-details img {
+      max-width: 100%; /* Make the image responsive */
+      margin-right: 0; /* Remove margin for small screens */
+    }
+  }
 </style>
+
 
 <div class="image-and-details">
   
@@ -22,5 +34,19 @@
   <p> <b>Software Engineering Intern</b> | May-July 2023 </p>
   - Worked with the data science team on Root Cause Analysis engine. The engine can analyse the problems the WiFi client faces and provide recommendations.
   - Significantly improved data analysis capacity from 15 minutes to maximum of 30 days following optimizations during my tenure.
+  </div>
+</div>
+
+
+<div class="image-and-details">
+  
+  ![](images/iitgn_logo.png)
+  <div class="detials">
+  <h2> IIT Gandhinagar </h2>
+  <p> <b>ML Research Intern</b> | May-July 2022 </p>
+  - Worked with [Nipun Batra](https://nipunbatra.github.io/) on Machine Learning problems.
+  - Implemented Markov Chain Monte Carlo sampling on Bayesian Neural Network for bnn-zoo. The model predictions
+are calibrated, and the model outputs probabilities correspond to true probabilities.
+  - Contributed to [pyprobml](https://github.com/probml/pyprobml) which is code for the book ‘Probabilistic Machine Learning’ by Kevin Murphy.
   </div>
 </div>

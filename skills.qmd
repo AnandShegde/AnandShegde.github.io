@@ -1,0 +1,45 @@
+
+<style>
+  .skills {
+    display: flex;
+    align-items: center;
+  }
+
+  .skills img {
+    max-width: 150px; /* Adjust the width as needed */
+    margin-right: 20px; /* Add spacing between the image and details */
+    margin-bottom: 20px;
+  }
+
+  @media (max-width: 768px) {
+    .image-and-details {
+      flex-direction: column; /* Change to a column layout on small screens */
+    }
+
+    .image-and-details img {
+      max-width: 100%; /* Make the image responsive */
+      margin-right: 0; /* Remove margin for small screens */
+    }
+  }
+</style>
+
+# Languages
+<div class="skills">
+![C++](images/skills/c++.png)
+![python](images/skills/python.png)
+![Java](images/skills/java.webp)
+![Rust](images/skills/rust.png)
+</div>
+
+# Frameworks
+<div class="skills">
+![Jax](images/skills/jax.png)
+![Flutter](images/skills/flutter.png)
+![Spring](images/skills/spring.png)
+</div>
+
+# Tools
+<div class="skills">
+![](images/skills/docker.webp)
+![](images/skills/postman.png)
+</div>

@@ -4,7 +4,11 @@ project:
 
 website:
   title: "Anand Hegde"
+  site-url: https://anandshegde.github.io/
+  favicon: images/A-logo.png
+
   navbar:
+    logo: images/A-logo.png
     right:
       - href: index.qmd
         text: Home
