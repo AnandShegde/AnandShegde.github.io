@@ -14,11 +14,11 @@
     "text": "Will write tomorrow."
   },
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Course Materials",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
     "section": "",
-    "text": "Datasets\nSlides"
+    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
   },
   {
     "objectID": "education.html",
@@ -47,13 +47,6 @@
     "title": "Anand Hegde",
     "section": "Sirsi Lions High School",
     "text": "Sirsi Lions High School\n\n10th Board Exam - 97.44%\nFirst Prize in State Level Table Tennis Competition(Team)."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
   },
   {
     "objectID": "skills.html",
