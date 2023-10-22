@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "experience.html",
+    "href": "experience.html",
     "title": "Anand Hegde",
     "section": "",
-    "text": "Hi!\nI am Fourth Year Undergraduate at IIT Dharwad studying computer Science and Engineering. I am interested in Software development. I like building things. I enjoy DSA, Graph Theory, Machine learning. Pretty much anything related to CSE!\nI am currently working on Erdos-Gyarfas conjecture for P-10 free graphs as my B-Tech Project!"
+    "text": "Arista Networks\n\n\nSoftware Engineering Intern | May-July 2023\n\n\nWorked with the data science team on Root Cause Analysis engine. The engine can analyse the problems the WiFi client faces and provide recommendations.\nSignificantly improved data analysis capacity from 15 minutes to maximum of 30 days following optimizations during my tenure."
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Course Materials",
     "section": "",
-    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
+    "text": "Datasets\nSlides"
   },
   {
     "objectID": "education.html",
@@ -32,13 +32,27 @@
     "href": "education.html#mes-pre-university-college",
     "title": "Anand Hegde",
     "section": "MES Pre-University College",
-    "text": "MES Pre-University College\n\nOnly person to Clear JEE-Advanced\nCET Rank - 372(Engg)\nBoard Exam - 95.5%"
+    "text": "MES Pre-University College\n\nOnly person to Clear JEE-Advanced from the college.\nCET Rank - 372(Engg)\nBoard Exam - 95.5%"
   },
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Course Materials",
+    "objectID": "education.html#sirsi-lions-high-school",
+    "href": "education.html#sirsi-lions-high-school",
+    "title": "Anand Hegde",
+    "section": "Sirsi Lions High School",
+    "text": "Sirsi Lions High School\n\n10th Board Exam - 97.44%\nFirst Prize in State Level Table Tennis Competition(Team)."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
     "section": "",
-    "text": "Datasets\nSlides"
+    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Anand Hegde",
+    "section": "",
+    "text": "Hi!\nI am Fourth Year Undergraduate at IIT Dharwad studying computer Science and Engineering. I am interested in Software development. I like building things. I enjoy DSA, Graph Theory, Machine learning. Pretty much anything related to CSE!\nI am currently working on Erdos-Gyarfas conjecture for P-10 free graphs as my B-Tech Project!"
   }
 ]
