@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/AnandShegde/AnandShegde.github.io/experience.html</loc>
-    <lastmod>2023-10-22T17:39:14.559Z</lastmod>
+    <loc>https://anandshegde.github.io/experience.html</loc>
+    <lastmod>2023-10-22T22:06:27.736Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/AnandShegde/AnandShegde.github.io/materials.html</loc>
-    <lastmod>2023-10-22T17:39:13.783Z</lastmod>
+    <loc>https://anandshegde.github.io/projects.html</loc>
+    <lastmod>2023-10-22T22:06:26.984Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/AnandShegde/AnandShegde.github.io/education.html</loc>
-    <lastmod>2023-10-22T17:39:10.151Z</lastmod>
+    <loc>https://anandshegde.github.io/materials.html</loc>
+    <lastmod>2023-10-22T22:06:26.320Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/AnandShegde/AnandShegde.github.io/schedule.html</loc>
-    <lastmod>2023-10-22T17:39:13.415Z</lastmod>
+    <loc>https://anandshegde.github.io/education.html</loc>
+    <lastmod>2023-10-22T22:06:23.868Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/AnandShegde/AnandShegde.github.io/index.html</loc>
-    <lastmod>2023-10-22T17:39:14.163Z</lastmod>
+    <loc>https://anandshegde.github.io/schedule.html</loc>
+    <lastmod>2023-10-22T22:06:25.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://anandshegde.github.io/skills.html</loc>
+    <lastmod>2023-10-22T22:06:26.656Z</lastmod>
+  </url>
+  <url>
+    <loc>https://anandshegde.github.io/index.html</loc>
+    <lastmod>2023-10-22T22:06:27.356Z</lastmod>
   </url>
 </urlset>

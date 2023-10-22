@@ -1,1 +1,1 @@
-Sitemap: https://github.com/AnandShegde/AnandShegde.github.io/sitemap.xml
+Sitemap: https://anandshegde.github.io/sitemap.xml

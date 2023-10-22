@@ -4,7 +4,14 @@
     "href": "experience.html",
     "title": "Anand Hegde",
     "section": "",
-    "text": "Arista Networks\n\n\nSoftware Engineering Intern | May-July 2023\n\n\nWorked with the data science team on Root Cause Analysis engine. The engine can analyse the problems the WiFi client faces and provide recommendations.\nSignificantly improved data analysis capacity from 15 minutes to maximum of 30 days following optimizations during my tenure."
+    "text": "Arista Networks\n\n\nSoftware Engineering Intern | May-July 2023\n\n\nWorked with the data science team on Root Cause Analysis engine. The engine can analyse the problems the WiFi client faces and provide recommendations.\nSignificantly improved data analysis capacity from 15 minutes to maximum of 30 days following optimizations during my tenure.\n\n\n\n\n\n\n\n\nIIT Gandhinagar\n\n\nML Research Intern | May-July 2022\n\n\nWorked with Nipun Batra on Machine Learning problems.\nImplemented Markov Chain Monte Carlo sampling on Bayesian Neural Network for bnn-zoo. The model predictions are calibrated, and the model outputs probabilities correspond to true probabilities.\nContributed to pyprobml which is code for the book ‘Probabilistic Machine Learning’ by Kevin Murphy."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Will write tomorrow.",
+    "section": "",
+    "text": "Will write tomorrow."
   },
   {
     "objectID": "materials.html",
@@ -49,10 +56,17 @@
     "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
   },
   {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Languages",
+    "section": "",
+    "text": "Languages\n\n   \n\n\n\nFrameworks\n\n  \n\n\n\nTools"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Anand Hegde",
     "section": "",
-    "text": "Hi!\nI am Fourth Year Undergraduate at IIT Dharwad studying computer Science and Engineering. I am interested in Software development. I like building things. I enjoy DSA, Graph Theory, Machine learning. Pretty much anything related to CSE!\nI am currently working on Erdos-Gyarfas conjecture for P-10 free graphs as my B-Tech Project!"
+    "text": "Hi!\nI am Fourth Year Undergraduate at IIT Dharwad studying Computer Science and Engineering. I am interested in Software development. I like building things. I enjoy DSA, Graph Theory, Machine learning. Pretty much anything related to CSE!\nI am currently working on Erdos-Gyarfas conjecture for P-10 free graphs as my B-Tech Project!"
   }
 ]
