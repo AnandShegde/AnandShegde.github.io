@@ -1,1 +1,41 @@
-# Will write tomorrow.
+# NWKRTC Bus Tracking
+**Tools:**  Flutter, MySQL, REST API, React Js
+
+#### Overview
+Building an application for NWKRTC (hackathon) to track busses using conductor mobile number/bus number which was being sent by conductors using the app.
+
+#### [Mobile App](https://play.google.com/store/apps/details?id=com.tracknwkrtc.bus_tracking&pli=1)
+- Flutter App for conductors to send location continuously.
+- Passengers can track location using bus number and conductor number.
+- JWT token for login and auto logout after 15hrs.
+- Location sending in foreground to reduce battery usage.
+
+#### [Web App]((https://www.tracknwkrtc.in/))
+- Features for Admin and Traffic controller to add trips and conductors.
+- Passengers can track location using bus number and conductor number.
+
+#### Backend
+- SQL for scalable architechture and redis for faster location sending.
+- Multiple servers using NGINX.
+
+
+-----------------------------------------------
+
+# [Whatsapp Clan Messenger](https://github.com/Arvind-kumar-M-08/Clan-Whatsapp-messenger)
+**Tools:**  Python, Pandas, PyAutoGui, Lackey
+
+#### Overview
+- Automation is the need of the hour to perform menial tasks like sending bulk messages and emails to specific contacts through social media(Whatsapp) for creating awareness regarding events.
+- Using excel sheet with mobile numbers listed and a message, our bot will send whatsapp messages to those numbers with the message irrespective of whether the contact number is saved in the sender's phone.
+
+
+-----------------------------------------------
+
+# [MultiStage-pipelined Processor For TOYrisc](https://github.com/AnandShegde/comp_arch)
+**Tools:** Java, Matplotlib
+
+#### Overview
+- Simulating a 5 staged pipelined processor for the TOY-Risc assembly language as a part of Computer Architecture course.
+- Discrete event simulator for capturing reak time memory access.
+- 1 level instruction and data cache and comparing with various benchmark programs.
+
