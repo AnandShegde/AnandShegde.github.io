@@ -21,7 +21,7 @@ website:
       - href: skills.qmd
         text: Skills
       - href: files/CV_Anand_Hegde_IIT_Dharwad.pdf
-        text: Resume
+        text: CV
 
 
 format:
