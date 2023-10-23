@@ -9,9 +9,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Will write tomorrow.",
+    "title": "NWKRTC Bus Tracking",
     "section": "",
-    "text": "Will write tomorrow."
+    "text": "NWKRTC Bus Tracking\nTools: Flutter, MySQL, REST API, React Js\n\nOverview\nBuilding an application for NWKRTC (hackathon) to track busses using conductor mobile number/bus number which was being sent by conductors using the app.\n\n\nMobile App\n\nFlutter App for conductors to send location continuously.\nPassengers can track location using bus number and conductor number.\nJWT token for login and auto logout after 15hrs.\nLocation sending in foreground to reduce battery usage.\n\n\n\nWeb App\n\nFeatures for Admin and Traffic controller to add trips and conductors.\nPassengers can track location using bus number and conductor number.\n\n\n\nBackend\n\nSQL for scalable architechture and redis for faster location sending.\nMultiple servers using NGINX.\n\n\n\n\n\nWhatsapp Clan Messenger\nTools: Python, Pandas, PyAutoGui, Lackey\n\nOverview\n\nAutomation is the need of the hour to perform menial tasks like sending bulk messages and emails to specific contacts through social media(Whatsapp) for creating awareness regarding events.\nUsing excel sheet with mobile numbers listed and a message, our bot will send whatsapp messages to those numbers with the message irrespective of whether the contact number is saved in the sender’s phone.\n\n\n\n\n\nMultiStage-pipelined Processor For TOYrisc\nTools: Java, Matplotlib\n\nOverview\n\nSimulating a 5 staged pipelined processor for the TOY-Risc assembly language as a part of Computer Architecture course.\nDiscrete event simulator for capturing reak time memory access.\n1 level instruction and data cache and comparing with various benchmark programs."
   },
   {
     "objectID": "schedule.html",
