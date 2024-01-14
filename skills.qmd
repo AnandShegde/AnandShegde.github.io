@@ -31,12 +31,6 @@
 ![Rust](images/skills/rust.png)
 </div>
 
-# Frameworks
-<div class="skills">
-![Jax](images/skills/jax.png)
-![Flutter](images/skills/flutter.png)
-![Spring](images/skills/spring.png)
-</div>
 
 # Tools
 <div class="skills">
