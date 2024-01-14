@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Anand Hegde",
-    "section": "",
-    "text": "Arista Networks\n\n\nSoftware Engineering Intern | May-July 2023\n\n\nWorked with the data science team on Root Cause Analysis engine. The engine can analyse the problems the WiFi client faces and provide recommendations.\nSignificantly improved data analysis capacity from 15 minutes to maximum of 30 days following optimizations during my tenure.\n\n\n\n\n\n\n\n\nIIT Gandhinagar\n\n\nML Research Intern | May-July 2022\n\n\nWorked with Nipun Batra on Machine Learning problems.\nImplemented Markov Chain Monte Carlo sampling on Bayesian Neural Network for bnn-zoo. The model predictions are calibrated, and the model outputs probabilities correspond to true probabilities.\nContributed to pyprobml which is code for the book ‘Probabilistic Machine Learning’ by Kevin Murphy."
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "NWKRTC Bus Tracking",
@@ -14,25 +7,25 @@
     "text": "NWKRTC Bus Tracking\nTools: Flutter, MySQL, REST API, React Js\n\nOverview\nBuilding an application for NWKRTC (hackathon) to track busses using conductor mobile number/bus number which was being sent by conductors using the app.\n\n\nMobile App\n\nFlutter App for conductors to send location continuously.\nPassengers can track location using bus number and conductor number.\nJWT token for login and auto logout after 15hrs.\nLocation sending in foreground to reduce battery usage.\n\n\n\nWeb App\n\nFeatures for Admin and Traffic controller to add trips and conductors.\nPassengers can track location using bus number and conductor number.\n\n\n\nBackend\n\nSQL for scalable architechture and redis for faster location sending.\nMultiple servers using NGINX.\n\n\n\n\n\nWhatsapp Clan Messenger\nTools: Python, Pandas, PyAutoGui, Lackey\n\nOverview\n\nAutomation is the need of the hour to perform menial tasks like sending bulk messages and emails to specific contacts through social media(Whatsapp) for creating awareness regarding events.\nUsing excel sheet with mobile numbers listed and a message, our bot will send whatsapp messages to those numbers with the message irrespective of whether the contact number is saved in the sender’s phone.\n\n\n\n\n\nMultiStage-pipelined Processor For TOYrisc\nTools: Java, Matplotlib\n\nOverview\n\nSimulating a 5 staged pipelined processor for the TOY-Risc assembly language as a part of Computer Architecture course.\nDiscrete event simulator for capturing reak time memory access.\n1 level instruction and data cache and comparing with various benchmark programs."
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Anand Hegde",
     "section": "",
-    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
+    "text": "Arista Networks\n\n\nSoftware Engineering Intern | May-July 2023\n\n\nWorked with the data science team on Root Cause Analysis engine. The engine can analyse the problems the WiFi client faces and provide recommendations.\nSignificantly improved data analysis capacity from 15 minutes to maximum of 30 days following optimizations during my tenure.\n\n\n\n\n\n\n\n\nIIT Gandhinagar\n\n\nML Research Intern | May-July 2022\n\n\nWorked with Nipun Batra on Machine Learning problems.\nImplemented Markov Chain Monte Carlo sampling on Bayesian Neural Network for bnn-zoo. The model predictions are calibrated, and the model outputs probabilities correspond to true probabilities.\nContributed to pyprobml which is code for the book ‘Probabilistic Machine Learning’ by Kevin Murphy."
   },
   {
     "objectID": "education.html",
     "href": "education.html",
     "title": "Anand Hegde",
     "section": "",
-    "text": "B.Tech in Computer Science And Engineering 2020-2024 (Expected)\n\n9.40 CPI till 6th Semester\nGeneral Secretary Technical Affairs"
+    "text": "B.Tech in Computer Science And Engineering 2020-2024\n\n9.44 CPI\nGeneral Secretary Technical Affairs"
   },
   {
     "objectID": "education.html#iit-dharwad",
     "href": "education.html#iit-dharwad",
     "title": "Anand Hegde",
     "section": "",
-    "text": "B.Tech in Computer Science And Engineering 2020-2024 (Expected)\n\n9.40 CPI till 6th Semester\nGeneral Secretary Technical Affairs"
+    "text": "B.Tech in Computer Science And Engineering 2020-2024\n\n9.44 CPI\nGeneral Secretary Technical Affairs"
   },
   {
     "objectID": "education.html#mes-pre-university-college",
@@ -49,17 +42,17 @@
     "text": "Sirsi Lions High School\n\n10th Board Exam - 97.44%\nFirst Prize in State Level Table Tennis Competition(Team)."
   },
   {
-    "objectID": "skills.html",
-    "href": "skills.html",
-    "title": "Languages",
-    "section": "",
-    "text": "Languages\n\n   \n\n\n\nFrameworks\n\n  \n\n\n\nTools"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Anand Hegde",
     "section": "",
-    "text": "Hi!\nI am Fourth Year Undergraduate at IIT Dharwad studying Computer Science and Engineering. I am interested in Software development. I like building things. I enjoy DSA, Graph Theory, Machine learning. Pretty much anything related to CSE!\nI am currently working on Erdos-Gyarfas conjecture for P-10 free graphs as my B-Tech Project!"
+    "text": "Hi!\nI am Fourth Year Undergraduate at IIT Dharwad studying Computer Science and Engineering. I am interested in Software development. I like building things. I enjoy DSA, Graph Theory, Machine learning. Pretty much anything related to CSE!\nI am working at Arista Networks as Software Engineering Intern. I am also working on a graph theory problem."
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Languages",
+    "section": "",
+    "text": "Languages\n\n   \n\n\n\nTools"
   }
 ]
